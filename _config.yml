@@ -13,6 +13,8 @@ social:
     url: https://github.com/ariellacg
   - platform: linkedin
     url: https://www.linkedin.com/in/ariellacheskisgold/
+  - platform: email
+    url: mailto:acheskisgold@gmail.com
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
